@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @nils0111
 - 
-- 👀 I’m interested in ...
+- 👀 I’m interested in sports, programming and a lot of nerd stuff. 
 - 
 - 🌱 I’m currently learning Python.
 - 
 - 💞️ I’m looking to collaborate on ...
 - 
-- 📫 How to reach me ...
+- 📫 How to reach me ... here?
 - 
-- 😄 Pronouns: ...
+- 😄 Pronouns: None
 - 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My second home is the gym. 
 
 <!---
 nils0111/nils0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
