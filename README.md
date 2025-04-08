@@ -10,7 +10,7 @@
 - 
 - 😄 Pronouns: None
 - 
-- ⚡ Fun fact: My second home is the gym. 
+- ⚡ Fun fact: Also a fan of Monty Python 
 
 <!---
 nils0111/nils0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
